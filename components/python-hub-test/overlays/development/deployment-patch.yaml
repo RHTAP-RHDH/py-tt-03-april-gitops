@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: rhtap-quay-quay-rhtap-quay.apps.rosa.ravarghe0403416.u1a1.p3.openshiftapps.com/rhtap/april03-test:1709a349098bd59d56b58745245efbad617f4cd8@sha256:7bef1590eab47aa32a719b6dde72e6ec8163691edb35312f4b3901ea2ca65215
+        - image: rhtap-quay-quay-rhtap-quay.apps.rosa.ravarghe0403416.u1a1.p3.openshiftapps.com/rhtap/april03-test:6cc1ec29460d7cab64db63c5a0a4e7b064137441@sha256:26055165c5c69aee66e35a08a44f8108eed09b7ebdf709b42d3936252436eb98
           name: container-image
